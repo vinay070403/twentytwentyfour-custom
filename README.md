@@ -55,3 +55,9 @@ my_wp_project/
 ├── header.php
 ├── footer.php
 └── ...
+```
+<img width="940" height="511" alt="image" src="https://github.com/user-attachments/assets/232402b8-2ef7-4ee4-a789-b663a9229298" />
+<img width="940" height="688" alt="image" src="https://github.com/user-attachments/assets/7d199d37-1432-4998-b19e-7f969c0b6d95" />
+<img width="940" height="432" alt="image" src="https://github.com/user-attachments/assets/a36a0cfb-c5a0-4308-82b1-d2f95b132402" />
+
+
